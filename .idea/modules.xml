@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/u01/u01.iml" filepath="$PROJECT_DIR$/u01/u01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u02/u02.iml" filepath="$PROJECT_DIR$/u02/u02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u02-sol/u02-sol.iml" filepath="$PROJECT_DIR$/u02-sol/u02-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u03/u03.iml" filepath="$PROJECT_DIR$/u03/u03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u03-sol/u03-sol.iml" filepath="$PROJECT_DIR$/u03-sol/u03-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u04/u04.iml" filepath="$PROJECT_DIR$/u04/u04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u04-sol/u04-sol.iml" filepath="$PROJECT_DIR$/u04-sol/u04-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u05/u05.iml" filepath="$PROJECT_DIR$/u05/u05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u05-bonus/u05-bonus.iml" filepath="$PROJECT_DIR$/u05-bonus/u05-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u05-sol/u05-sol.iml" filepath="$PROJECT_DIR$/u05-sol/u05-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u06/u06.iml" filepath="$PROJECT_DIR$/u06/u06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u06-bonus/u06-bonus.iml" filepath="$PROJECT_DIR$/u06-bonus/u06-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u06-sol/u06-sol.iml" filepath="$PROJECT_DIR$/u06-sol/u06-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u07/u07.iml" filepath="$PROJECT_DIR$/u07/u07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u07-bonus/u07-bonus.iml" filepath="$PROJECT_DIR$/u07-bonus/u07-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u07-sol/u07-sol.iml" filepath="$PROJECT_DIR$/u07-sol/u07-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u08/u08.iml" filepath="$PROJECT_DIR$/u08/u08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u08-bonus/u08-bonus.iml" filepath="$PROJECT_DIR$/u08-bonus/u08-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u08-sol/u08-sol.iml" filepath="$PROJECT_DIR$/u08-sol/u08-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u09/u09.iml" filepath="$PROJECT_DIR$/u09/u09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u09-bonus/u09-bonus.iml" filepath="$PROJECT_DIR$/u09-bonus/u09-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u09-sol/u09-sol.iml" filepath="$PROJECT_DIR$/u09-sol/u09-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10/u10.iml" filepath="$PROJECT_DIR$/u10/u10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10-bonus/u10-bonus.iml" filepath="$PROJECT_DIR$/u10-bonus/u10-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10-sol/u10-sol.iml" filepath="$PROJECT_DIR$/u10-sol/u10-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11/u11.iml" filepath="$PROJECT_DIR$/u11/u11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11-bonus/u11-bonus.iml" filepath="$PROJECT_DIR$/u11-bonus/u11-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11-sol/u11-sol.iml" filepath="$PROJECT_DIR$/u11-sol/u11-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u12/u12.iml" filepath="$PROJECT_DIR$/u12/u12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u12-bonus/u12-bonus.iml" filepath="$PROJECT_DIR$/u12-bonus/u12-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u12-sol/u12-sol.iml" filepath="$PROJECT_DIR$/u12-sol/u12-sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u13/u13.iml" filepath="$PROJECT_DIR$/u13/u13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u13-bonus/u13-bonus.iml" filepath="$PROJECT_DIR$/u13-bonus/u13-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u13-sol/u13-sol.iml" filepath="$PROJECT_DIR$/u13-sol/u13-sol.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+.idea/*
+
+!.idea/libraries/
+!.idea/modules.xml
+!.idea/misc.xml
+
+/out/
+/build/
+/target/
+/bin/
