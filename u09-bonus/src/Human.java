@@ -1,7 +1,8 @@
 
 public class Human {
 
-    private TurnScheduler _scheduler;
+    private final TurnScheduler _scheduler;
+    private boolean _hasActionScheduled = false;
 
     public int health, position;
     public HumanClass humanClass;
@@ -26,9 +27,10 @@ public class Human {
     }
 
     public boolean scheduleAction(Action action) {
-        if (!isAlive())
+        if (!isAlive() || _hasActionScheduled)
             return false;
 
+        _hasActionScheduled = true;
         if (humanClass == HumanClass.JESTER) {
             return true;
         }
@@ -40,5 +42,9 @@ public class Human {
 
         _scheduler.scheduleAction(action, this, delay);
         return true;
+    }
+
+    public void resetActionState() {
+        _hasActionScheduled = false;
     }
 }

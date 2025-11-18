@@ -22,6 +22,7 @@ public class Game {
             actionEntry = turnToExecute.popLatestAction();
             if (actionEntry == null) continue;
             final Human human = actionEntry.human();
+            human.resetActionState();
 
             if (human.humanClass == HumanClass.JESTER) {
                 continue;
